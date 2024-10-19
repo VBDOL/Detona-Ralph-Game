@@ -6,7 +6,7 @@ Bem-vindo ao **Game Detona Ralph**! Neste repositório, você encontrará um jog
 
 <h2>Conheça o projeto clicando na imagem abaixo:</h2>
 
-<a href="">
+<a href="https://detona-ralph-game-alpha.vercel.app/">
   <img src="./src/images/jogo.png">
 </a>
 
